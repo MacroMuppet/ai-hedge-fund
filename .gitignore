@@ -44,3 +44,4 @@ Thumbs.db
 # Txt files
 *.txt
 .nba_cache/
+data/nba/*/raw/
